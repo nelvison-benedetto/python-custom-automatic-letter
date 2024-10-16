@@ -1,0 +1,1 @@
+Custom Automatic Letter Project, create a custom letter with 2 files: 1 with just the names and 1 with just the base letter.
